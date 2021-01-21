@@ -1,5 +1,8 @@
 # watchdog_project
 
+Detailed description is in Doxygen/index.html .
+
+
 This is a watchdog process simulation that keep tracks of each process and keep them alive.
 
 executor.cpp works in the background and creates watchdog and sends the signals according to input.txt.
